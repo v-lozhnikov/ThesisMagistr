@@ -280,3 +280,4 @@ TSWLatexianTemp*
 
 # pdf output
 /*.pdf
+.DS_Store
